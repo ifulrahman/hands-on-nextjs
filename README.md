@@ -5,6 +5,10 @@ Secara pribadi, saya lebih menyukai server data fetch dalam situasi di mana data
 
 Saya berpendapat bahwa server data fetch lebih cocok untuk situs web yang membutuhkan waktu muat cepat dan optimalisasi mesin pencari, seperti Google. Di sisi lain, jika saya mengembangkan aplikasi yang interaktif dan sering berubah, seperti aplikasi e-commerce atau dashboard, saya akan lebih memilih client data fetch karena memberikan pengalaman yang lebih responsif setelah halaman dimuat, tidak memerlukan pemuatan ulang seluruh halaman, hanya bagian yang berubah saja yang diperbarui.
 ## ---------------------------------------------------------------------------------------------
+## Preview (Screenshot)
+<p align="center">
+  <img width="600" alt="image" src="Screenshot_1.png"/>
+</p>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
