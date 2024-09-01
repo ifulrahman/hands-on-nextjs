@@ -1,3 +1,11 @@
+## Opini Pribadi
+Jika harus memilih antara Client Side Rendering (CSR) dan Server Side Rendering (SSR), tentu bukanlah keputusan yang mudah karena keduanya memiliki kelebihan dan kekurangan dalam berbagai kondisi.
+
+Secara pribadi, saya lebih menyukai server data fetch dalam situasi di mana data yang diperlukan sangat krusial untuk pengalaman pengguna, seperti konten utama pada halaman web, dan ketika server memiliki kinerja yang memadai. Pendekatan ini memberikan pengalaman pengguna yang lebih lancar tanpa jeda dalam tampilan data. Namun, jika data tersebut tidak bersifat kritis atau ditampilkan secara bertahap, saya akan memilih client data fetch untuk mengurangi beban server dan meningkatkan skalabilitas aplikasi.
+
+Saya berpendapat bahwa server data fetch lebih cocok untuk situs web yang membutuhkan waktu muat cepat dan optimalisasi mesin pencari, seperti Google. Di sisi lain, jika saya mengembangkan aplikasi yang interaktif dan sering berubah, seperti aplikasi e-commerce atau dashboard, saya akan lebih memilih client data fetch karena memberikan pengalaman yang lebih responsif setelah halaman dimuat, tidak memerlukan pemuatan ulang seluruh halaman, hanya bagian yang berubah saja yang diperbarui.
+## ---------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
